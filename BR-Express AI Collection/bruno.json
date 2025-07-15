@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "BR-Express AI Collection",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
